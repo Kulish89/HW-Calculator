@@ -1,0 +1,22 @@
+button{
+    width: 30px;
+    height: 30px;
+}
+.screenFirst {
+    height: 30px;
+    width: 130px;
+    background-color: #F9F9F9;
+    border: 1px solid grey;
+}
+.screenSecond {
+    height: 30px;
+    width: 130px;
+    background-color: #F9F9F9;
+    border: 1px solid grey;  
+}
+.screenSign {
+    height: 30px;
+    width: 130px;
+    background-color: #F9F9F9;
+    border: 1px solid grey;   
+}
